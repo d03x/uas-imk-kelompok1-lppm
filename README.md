@@ -1,8 +1,7 @@
-# Proyek Interaksi Manusia dan Komputer
+# Proyek UAS Interaksi Manusia dan Komputer
 
 ## Deskripsi
-Ini adalah tugas mata kuliah Interaksi Manusia dan Komputer yang diampu oleh Haris Supriatna. Proyek ini bertujuan untuk mengembangkan halaman web yang berfokus pada pengabdian kepada masyarakat, khususnya proyek "Pelatihan Literasi Digital untuk Masyarakat" di STIMIK Mardira Indonesia.
-
+Ini adalah proyek Ujian Akhir Semester (UAS) mata kuliah Interaksi Manusia dan Komputer yang diampu oleh Haris Supriatna. Proyek ini bertujuan untuk mengembangkan halaman web yang berfokus pada pengabdian kepada masyarakat, khususnya proyek "Pelatihan Literasi Digital untuk Masyarakat" di STIMIK Mardira Indonesia.
 
 ## LINK WEB
 demo proyek ini [http://dadan.pw](http://dadan.pw/).
