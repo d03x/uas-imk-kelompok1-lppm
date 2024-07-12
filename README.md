@@ -8,9 +8,13 @@ demo proyek ini [http://dadan.pw](http://dadan.pw/).
 
 ## Tim Proyek
 - **Ketua:** Dadan Hidayat (23110313)
-- **Anggota:**
-  - Fidellia Srinuraeni (23110569)
-  - Gina Aulia Maulidati Gurnita (23110170)
-  - Muhammad Faiq Hudzaifah (23110199)
-  - Radiet Dwi Iskandar (23110269)
-  - Andika Muhammad Naufal (23110423)
+
+### Tim Desain
+- Gina Aulia Maulidati (23110170)
+- Fidellia Srinuraeni (23110569)
+- Muhammad Faiq Hudzaifah (23110199)
+
+### Tim Coding dan Implementasi
+- Radiet Dwi Iskandar (23110269)
+- Dadan Hidayat (23110313)
+- Andika Muhammad Naufal (23110423)
