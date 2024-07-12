@@ -5,6 +5,7 @@ Ini adalah tugas mata kuliah Interaksi Manusia dan Komputer yang diampu oleh Har
 
 
 ## LINK WEB
+demo proyek ini [di sini](http://dadan.pw/riset/pengabdian-kepada-masyarakat).
 
 ## Tim Proyek
 - **Ketua:** Dadan Hidayat (23110313)
