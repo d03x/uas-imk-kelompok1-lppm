@@ -4,7 +4,7 @@
 Ini adalah proyek Ujian Akhir Semester (UAS) mata kuliah Interaksi Manusia dan Komputer yang diampu oleh Haris Supriatna. Proyek ini bertujuan untuk mengembangkan halaman web yang berfokus pada pengabdian kepada masyarakat, khususnya proyek "Pelatihan Literasi Digital untuk Masyarakat" di STIMIK Mardira Indonesia.
 
 ## LINK WEB
-demo proyek ini [https://dadan.pw](https://dadan.pw/).
+demo proyek ini [https://uas-imk-kelompok1-lppm.vercel.app/](https://uas-imk-kelompok1-lppm.vercel.app/).
 
 ## Tim Proyek
 - **Ketua:** Dadan Hidayat (23110313)
