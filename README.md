@@ -1,7 +1,7 @@
 # Proyek UAS Interaksi Manusia dan Komputer
 
 ## Deskripsi
-Ini adalah proyek Ujian Akhir Semester (UAS) mata kuliah Interaksi Manusia dan Komputer yang diampu oleh Haris Supriatna. Proyek ini bertujuan untuk mengembangkan halaman web yang berfokus pada pengabdian kepada masyarakat, khususnya proyek "Pelatihan Literasi Digital untuk Masyarakat" di STIMIK Mardira Indonesia.
+Ini adalah proyek Ujian Akhir Semester (UAS) mata kuliah Interaksi Manusia dan Komputer yang diampu oleh Bapak Haris Supriatna, M.Kom. Proyek ini bertujuan untuk mengembangkan halaman web yang berfokus pada pengabdian kepada masyarakat, khususnya proyek "Pelatihan Literasi Digital untuk Masyarakat" di STIMIK Mardira Indonesia.
 
 ## LINK WEB
 demo proyek ini [https://uas-imk-kelompok1-lppm.vercel.app/](https://uas-imk-kelompok1-lppm.vercel.app/).
